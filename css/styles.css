@@ -1,0 +1,26 @@
+* {
+    background-color: orange;
+}
+
+
+[src] {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+ul li {
+    font-size: 24px;
+    color: darkblue;
+    list-style: square;
+    text-align: left;
+}
+
+.about-me {
+    font-family: cursive;
+}
